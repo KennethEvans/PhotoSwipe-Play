@@ -1,0 +1,7 @@
+//disableOptimizations//gallery-playbutton/photoswipe-ui-play.js=true
+//disableOptimizations//gallery-playbutton/photoswipe.js=true
+//minifier//gallery-playbutton/photoswipe-ui-play.js=YuiCompressor
+//minifier//gallery-playbutton/photoswipe.js=YuiCompressor
+//preserveSemicolons//gallery-playbutton/photoswipe-ui-play.js=true
+//preserveSemicolons//gallery-playbutton/photoswipe.js=true
+eclipse.preferences.version=1
